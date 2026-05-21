@@ -47,17 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hi-p&show_icons=true&theme=default&hide_border=true" />
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hi-p&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 📧 **kjo030629@gmail.com**
